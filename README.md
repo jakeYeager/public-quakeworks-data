@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.png" style="width: 128px;">
+<img src="logo.png">
 </p>
 
 # Quake Works Flux Data
