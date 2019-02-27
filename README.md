@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://craton.sfo2.cdn.digitaloceanspaces.com/media/img/branding/logo_solid/green.svg" style="width: 128px;">
+<img src="logo.png" style="width: 128px;">
 </p>
 
 # Quake Works Flux Data
