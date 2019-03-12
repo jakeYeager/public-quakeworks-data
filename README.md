@@ -6,7 +6,7 @@
 
 ***Earthquake event data & random number data***
 
-A verification resource created for research described in Quake Works [_The Flux_](https://flux.quake.works).
+A verification resource created for research described in Quake Works [_The Flux_](https://flux.quake.works). If you're looking for the Github data repo for this project, welcome! If you're not sure what this is, go [here](https://flux.quake.works) first.
 
 ## Repository Layout
 
