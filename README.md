@@ -124,7 +124,4 @@ The information downloaded from the USGS [API service](https://earthquake.usgs.g
     <a href="https://github.com/jakeYeager">
         <img src="https://craton.sfo2.cdn.digitaloceanspaces.com/media/img/branding/btn-github.svg" width="120px">
     </a>
-    <a href="https://paypal.me/quakeyeager?locale.x=en_US">
-        <img src="https://craton.sfo2.cdn.digitaloceanspaces.com/media/img/branding/btn-paypal.svg" width="120px">
-    </a>
 </p>
